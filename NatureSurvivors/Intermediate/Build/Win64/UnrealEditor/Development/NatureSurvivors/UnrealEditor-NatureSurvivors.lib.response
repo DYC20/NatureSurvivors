@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NatureSurvivors.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ydcar\Desktop\GRAPHIC ART\NatureSurvivors\NatureSurvivors\Intermediate\Build\Win64\NatureSurvivorsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ydcar\Desktop\GRAPHIC ART\NatureSurvivors\NatureSurvivors\Intermediate\Build\Win64\UnrealEditor\Development\NatureSurvivors\NatureSurvivors.init.gen.cpp.obj"
+"C:\Users\ydcar\Desktop\GRAPHIC ART\NatureSurvivors\NatureSurvivors\Intermediate\Build\Win64\UnrealEditor\Development\NatureSurvivors\NatureSurvivorsGameModeBase.gen.cpp.obj"
+"C:\Users\ydcar\Desktop\GRAPHIC ART\NatureSurvivors\NatureSurvivors\Intermediate\Build\Win64\UnrealEditor\Development\NatureSurvivors\NatureSurvivors.cpp.obj"
+"C:\Users\ydcar\Desktop\GRAPHIC ART\NatureSurvivors\NatureSurvivors\Intermediate\Build\Win64\UnrealEditor\Development\NatureSurvivors\NatureSurvivorsGameModeBase.cpp.obj"
+"C:\Users\ydcar\Desktop\GRAPHIC ART\NatureSurvivors\NatureSurvivors\Intermediate\Build\Win64\UnrealEditor\Development\NatureSurvivors\Default.rc2.res"
+/OUT:"C:\Users\ydcar\Desktop\GRAPHIC ART\NatureSurvivors\NatureSurvivors\Intermediate\Build\Win64\UnrealEditor\Development\NatureSurvivors\UnrealEditor-NatureSurvivors.lib"

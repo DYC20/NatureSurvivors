@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\Source\\NatureSurvivors\\NatureSurvivors.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\.vscode\\compileCommands_NatureSurvivors\\NatureSurvivors.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\Source\\NatureSurvivors\\NatureSurvivors.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\.vscode\\compileCommands_NatureSurvivors\\NatureSurvivors.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\Source\\NatureSurvivors\\NatureSurvivors.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\.vscode\\compileCommands_NatureSurvivors\\NatureSurvivors.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\Source\\NatureSurvivors\\NatureSurvivorsGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\.vscode\\compileCommands_NatureSurvivors\\NatureSurvivors.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\Source\\NatureSurvivors\\NatureSurvivorsGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\.vscode\\compileCommands_NatureSurvivors\\NatureSurvivors.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]

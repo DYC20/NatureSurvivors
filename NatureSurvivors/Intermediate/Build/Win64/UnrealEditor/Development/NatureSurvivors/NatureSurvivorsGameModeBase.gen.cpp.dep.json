@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ydcar\\desktop\\graphic art\\naturesurvivors\\naturesurvivors\\intermediate\\build\\win64\\unrealeditor\\inc\\naturesurvivors\\uht\\naturesurvivorsgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ydcar\\desktop\\graphic art\\naturesurvivors\\naturesurvivors\\intermediate\\build\\win64\\naturesurvivorseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ydcar\\desktop\\graphic art\\naturesurvivors\\naturesurvivors\\intermediate\\build\\win64\\unrealeditor\\development\\naturesurvivors\\definitions.naturesurvivors.h",
+            "c:\\users\\ydcar\\desktop\\graphic art\\naturesurvivors\\naturesurvivors\\source\\naturesurvivors\\naturesurvivorsgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\ydcar\\desktop\\graphic art\\naturesurvivors\\naturesurvivors\\intermediate\\build\\win64\\unrealeditor\\inc\\naturesurvivors\\uht\\naturesurvivorsgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

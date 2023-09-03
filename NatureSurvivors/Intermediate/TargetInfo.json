@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NatureSurvivors",
+			"Path": "C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\Source\\NatureSurvivors.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NatureSurvivorsEditor",
+			"Path": "C:\\Users\\ydcar\\Desktop\\GRAPHIC ART\\NatureSurvivors\\NatureSurvivors\\Source\\NatureSurvivorsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ydcar\\desktop\\graphic art\\naturesurvivors\\naturesurvivors\\source\\naturesurvivors\\naturesurvivors.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ydcar\\desktop\\graphic art\\naturesurvivors\\naturesurvivors\\intermediate\\build\\win64\\naturesurvivorseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ydcar\\desktop\\graphic art\\naturesurvivors\\naturesurvivors\\intermediate\\build\\win64\\unrealeditor\\development\\naturesurvivors\\definitions.naturesurvivors.h",
+            "c:\\users\\ydcar\\desktop\\graphic art\\naturesurvivors\\naturesurvivors\\source\\naturesurvivors\\naturesurvivors.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
